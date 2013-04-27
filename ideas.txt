@@ -1,0 +1,10 @@
+move health bar crap to seperate class.
+
+tiny group mob that is flocking? maybe they dont attack but repair? nanobots?
+
+movement with WASD. shoot with mous clicks.
+
+turret / equipment activation and upgrade done via mouse clicks
+no need to walk dude over to turret.
+machine guns for everyone!
+your own tower defense stuff can turn on you. hacked by the machines!
